@@ -67,6 +67,7 @@ Latest commit 289a9e7 on 5 Mar 2020
 # .idea/modules
 # *.iml
 # *.ipr
+# *.iml
 
 # CMake
 cmake-build-*/
@@ -79,6 +80,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
+.idea/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
